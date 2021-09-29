@@ -1,13 +1,13 @@
 package com.flipkart;
 
 /**
- * Hello cricket!
+ * Hello cricketfans!
  *
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello cricket!@" );
+        System.out.println( "Hello cricketfans!@" );
     }
 }
